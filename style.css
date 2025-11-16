@@ -21,7 +21,7 @@ body {
     font-size: 35px;
     color: #000;
     padding-left: 30px;
-    padding-top: 15px;
+    padding-top: 20px;
     float: left;
     line-height: 24px;
 }
@@ -301,7 +301,7 @@ footer h2 {
         left: 0;
     }
 
-    burger_icon {}
+    
 
     /* Show burger icon */
     .header_of_shop .burger_icon {
@@ -317,7 +317,8 @@ footer h2 {
     }
 
     .title h1 {
-        font-size: 30px;
+        font-size: 35px;
+
     }
 
     .about_shop {
