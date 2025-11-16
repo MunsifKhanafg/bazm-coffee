@@ -263,9 +263,7 @@ footer h2{
         margin: 8px;
         padding: 8px;
     }
-    .title h1{
-        font-size: 30px;
-    }
+   
     .menu{
         grid-template-columns: 1fr 1fr;
     }
@@ -310,7 +308,9 @@ footer h2{
         text-align: center;
         padding: 15px 0;
     }
-
+     .title h1{
+        font-size: 30px;
+    }
     .about_shop{
         display: block;
         padding-left: 2px;
