@@ -6,14 +6,15 @@ body{
 }
 
 .header_of_shop{
-   margin:20px 0px;
+   
    position: sticky;
    top: 0;
    z-index: 1000;
    background-color: #c5aa6a;
-   box-sizing: border-box;
+  
    height: 100px;
-   box-shadow: 30px 5px 6px yellow;
+  
+   
 }
 
 .header_of_shop .logo{
@@ -74,14 +75,18 @@ nav ul li a:hover{
     display: flex;
     justify-content: center; 
     align-items: center;   
-    text-align: center;   
+    text-align: center;  
+    width: 100%; 
     height: 89vh;
     position: relative;
+    
+ 
 }
 
 .hero img{
     height: 100%;
     width: 100%;
+    margin-top: -30px;
 }
 
 .title{
@@ -108,9 +113,7 @@ nav ul li a:hover{
     cursor: pointer;
     transition: 0.3s;
 }
-.title button a{
-    
-}
+
 
 .title button:hover{
     background-color: lightgray;
@@ -124,7 +127,7 @@ nav ul li a:hover{
 /* About Section */
 #about{
     padding: 10px;
-    margin: 50px 0px;
+    
     background-color: lightblue;
     text-align: center;
     padding-top: 100px;
