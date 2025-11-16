@@ -132,9 +132,7 @@ nav ul li a:hover{
     text-align: center;
     padding-top: 100px;
 }
- .title h1{
-        font-size: 45px;
-    }
+
 
 .about_shop{
     display: flex;
@@ -264,6 +262,9 @@ footer h2{
     nav ul li{
         margin: 8px;
         padding: 8px;
+    }
+    .title h1{
+        font-size: 40px;
     }
     .menu{
         grid-template-columns: 1fr 1fr;
