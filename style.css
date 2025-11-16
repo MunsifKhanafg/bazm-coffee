@@ -257,12 +257,13 @@ footer h2{
 @media (max-width:1126px){
     .header_of_shop .logo{
         font-size: 25px;
-        padding-left: 40px;
+        padding-left: 30px;
     }
     nav ul li{
         margin: 8px;
         padding: 8px;
     }
+    
    
     .menu{
         grid-template-columns: 1fr 1fr;
@@ -277,7 +278,7 @@ footer h2{
 @media (max-width: 826px) {
     .header_of_shop .logo{
         font-size: 25px;
-        padding-left: 40px;
+        padding-left: 20px;
     }
 
     /* Nav Menu Hidden */
@@ -309,7 +310,7 @@ footer h2{
         padding: 15px 0;
     }
      .title h1{
-        font-size: 40px;
+        font-size: 30px;
     }
     .about_shop{
         display: block;
